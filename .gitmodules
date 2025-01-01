@@ -1,0 +1,3 @@
+[submodule "Video-Streaming-frontend"]
+	path = Video-Streaming-frontend
+	url = https://github.com/devansh1503/Video-Streaming-frontend.git
